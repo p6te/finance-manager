@@ -1,1 +1,2 @@
-<h1><a kref ="https://p6te.github.io/finance-manager/">Your finance manager calculator</a></h1>
+<h1>Your finance manager calculator</h1>
+<a kref ="https://p6te.github.io/finance-manager/">Check it out!</a>
